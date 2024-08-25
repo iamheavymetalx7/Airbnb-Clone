@@ -1,0 +1,9 @@
+- airbnb cole - using nextjs,typescript, tailwindcss, prisma, shadcn ui
+- clerk to provide user authentication
+- supabase to store data and images
+- host nextJS project with vercel and accept payments with stripe
+- When it comes to application, we have three user states, so user can be either an admin, a regular
+user which can create the properties, leave the reviews, complete the bookings on all that good stuff,
+and also a user who hasn't logged in.
+- open source FIREBASE alternative - SUPABASE
+- prisma
