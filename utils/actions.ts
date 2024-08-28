@@ -10,7 +10,6 @@ import {
   validateWithZodSchema,
 } from "./schema";
 import { uploadImage } from "./supabase";
-export const maxDuration = 20; // This function can run for a maximum of 5 seconds
 
 const getAuthUser = async () => {
   const user = await currentUser();
