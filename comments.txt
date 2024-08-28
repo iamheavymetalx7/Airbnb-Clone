@@ -1,2 +1,2 @@
--  added postgresql://postgres.ibcjldgnjoiyfgzfanfk:<password>@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?pgbouncer=true&connection_limit=10&connect_timeout=20
+-  added postgresql://postgres.ibcjldgnjoiyfgzfanfk:<password>@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?pgbouncer=true&connection_limit=10&connect_timeout=60
 // increased timeout
