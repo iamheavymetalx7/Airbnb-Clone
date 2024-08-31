@@ -2,7 +2,7 @@
 Deployed at https://airbnb-clone-opal.vercel.app/
 
 ## Tech Stack:
-Next.JS, Clerk, Stripe
+TypeScript, JavaScript, Next.JS, Clerk, Stripe
 
 ## Images
 ### HomePage
